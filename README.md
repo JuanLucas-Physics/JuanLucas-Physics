@@ -1,21 +1,22 @@
 # 🔬 Juan Lucas - Physics & Nanotechnology
-### Metrology | Thin Films | Nanoscale Simulations
+### BSc in Physics | Incoming MSc Student | Applied Python Learner
 
-Welcome to my research and development portfolio. I am a physicist transitioning into advanced nanotechnology, focusing on bridging the gap between experimental metrology, material science, and computational simulations.
+Welcome to my public laboratory. I am a physics graduate transitioning into advanced nanotechnology and materials science. I am currently using this space to bridge my theoretical background in physics with computational tools (Python) before starting my Master's degree.
 
-## 🎯 Current Status
+## 🎯 Academic Status
 * 🎓 **BSc in Physics** * 🚀 **Incoming MSc Student** in Nanostructured Materials for Nanotechnology Applications at the **University of Zaragoza** (Spain).
-* 🔬 **Research Focus:** Scanning Probe Microscopy (STM/AFM), Focused Ion Beam (FIB), Thin Film Characterization, and Nanoscale Material Simulation.
 
-## 🛠️ Technical Arsenal
-* **Programming & Automation:** Python (NumPy, SciPy, Pandas, Matplotlib).
-* **Metrology & Analysis:** Gwyddion, automated raw data pipelines, filtering thermal noise in topography, and extracting physical metrics from experimental datasets.
+## 🛠️ Current Skill Building
+I am actively expanding my technical arsenal to process experimental data:
+* **Programming:** Python (Familiar with basics, currently learning NumPy, Pandas, and Matplotlib).
+* **Physics Focus:** Metrology, Surface Characterization, and Thin Films.
 
-## 🚀 Active Operations & Projects
-I use this space to host scripts and algorithms that solve real-world physical problems:
-* **Topography Automation:** Automating the flattening, noise reduction, and RMS calculation of raw STM/AFM data.
-* **Optical Characterization:** Applying computational methods to calculate thin-film thickness and properties.
-* **Nanoscale Simulations:** Exploring material behavior and device co-optimization at the atomic level.
+## 🚧 Active Operations (Work in Progress)
+Instead of waiting for my Master's thesis, I am building my own data analysis tools from scratch. My current focus is:
+
+* **Project: Basic STM Data Plotter**
+  * *The Goal:* Write a Python script that can read raw data files (.csv/.txt) from a Scanning Tunneling Microscope (STM) and generate a 2D topographic heatmap.
+  * *Current Status:* Learning how to extract raw data using Pandas and plotting it with Matplotlib.
 
 ## 📫 Let's Connect
 * **LinkedIn:** www.linkedin.com/in/juan-lucas-pérez-cervantes-830b54257
