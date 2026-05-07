@@ -18,5 +18,5 @@ I use this space to host scripts and algorithms that solve real-world physical p
 * **Nanoscale Simulations:** Exploring material behavior and device co-optimization at the atomic level.
 
 ## 📫 Let's Connect
-* **LinkedIn:** (www.linkedin.com/in/juan-lucas-pérez-cervantes-830b54257)
-* **ORCID:** (https://orcid.org/0009-0002-1552-8337))
+* **LinkedIn:** www.linkedin.com/in/juan-lucas-pérez-cervantes-830b54257
+* **ORCID:** https://orcid.org/0009-0002-1552-8337
